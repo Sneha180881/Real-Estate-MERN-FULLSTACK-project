@@ -4,7 +4,8 @@
 
 Homyz is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, book,  and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
-![image]
+![image]<img width="1907" height="963" alt="Screenshot 2026-04-22 233828" src="https://github.com/user-attachments/assets/74520e6a-1735-4f71-a25f-26d3b422dde0" />
+
 
 ## Features
 
@@ -24,10 +25,13 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
-- ![image]
+- ![image]<img width="1853" height="910" alt="Screenshot 2026-04-22 234235" src="https://github.com/user-attachments/assets/1a3ae08b-653c-40f3-8c32-9e6455bff176" />
 
-![image]
-![image
+
+![image]<img width="876" height="520" alt="Screenshot 2026-04-25 110034" src="https://github.com/user-attachments/assets/b02b67fa-4fcf-4a76-bbc3-e4e98f26f0c7" />
+
+![image]!<img width="1860" height="958" alt="Screenshot 2026-04-22 234032" src="https://github.com/user-attachments/assets/db11b634-26b2-4af7-bbbb-5524e9129940" />
+
 
 2. Change into the project directory:
    bash
@@ -92,7 +96,4 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Contact
-
-1. [GITHUB](https://github.com/Sneha180881)
 
